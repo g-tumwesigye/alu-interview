@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""create an algorithm for calculating the rain"""
+"""This is an  algorithm for calculating the rain"""
 
 
 def rain(walls):
